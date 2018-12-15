@@ -4,7 +4,7 @@ Its my first job to university, I am in my 2o period in University
 I did a e-commerce Playstation 4 games with localstorage, this LocalStorage 
 save the product, value and quantity to send to my tag modal.( where I put the shoppingcart)
 I use elevatezoom scripts to make a zoom on the pics<br/>
- Portuguese
+ Portuguese<br/>
 Vendas de jogos de Playstation 4 
 Foi meu primeiro trabalho para a faculdade, Estou no meu 2 semestre na Faculdade
 Eu fiz esse site de vendas de Jogos de Playstation 4 com o localStorage, esse LocalStorage
